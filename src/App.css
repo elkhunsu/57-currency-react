@@ -1,0 +1,11 @@
+.container {
+  background-color: orange;
+}
+
+table{
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
